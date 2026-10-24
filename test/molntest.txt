@@ -1,4 +1,0 @@
-Molntest 2026-10-24T19:10:40Z
-Steg 1 (sparjo-kit): klonad (fanns redan), audio3.py finns, RUNBOOK.md finns
-Steg 3 (Make data store 231641): post "senaste" finns, uppdaterad = 2026-10-24 21:03
-Steg 4: https://sparjo.se HTTP 200; playwright: pw ok
