@@ -1,4 +1,5 @@
 # Sparjo Reels
 
-Färdiga filmer för automatisk publicering. Make hämtar publicera/<datum>.mp4 och .txt kl. 11:45.
-Filer äldre än 15 dagar rensas automatiskt.
+Varje dags film ligger i en egen gren: film-ÅÅÅÅ-MM-DD (film, inläggstext och omslag).
+Make hämtar dagens film kl. 11:45, publicerar den på Instagram och Facebook och raderar grenen från 15 dagar sedan.
+omslag/ innehåller små kopior av omslagen som historik.
